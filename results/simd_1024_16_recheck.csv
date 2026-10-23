@@ -1,0 +1,7 @@
+kernel,terrain,n,m,steps,threads,schedule,chunk,seed,ignitions,time_s,mcups,imbalance,burned_frac,checksum,verify,tag
+opt,hilly,1024,1024,200,16,static,0,42,1,0.735491,284.024,1.338,0.04454,a3a94b400bdd8e2d,NA,opt-simd
+opt,hilly,1024,1024,200,16,static,0,42,1,0.895957,233.155,1.491,0.04454,a3a94b400bdd8e2d,NA,opt-simd
+opt,hilly,1024,1024,200,16,static,0,42,1,0.609830,342.549,1.509,0.04454,a3a94b400bdd8e2d,NA,opt-simd
+opt,hilly,1024,1024,200,16,static,0,42,1,0.289262,722.172,1.110,0.04454,a3a94b400bdd8e2d,NA,opt-novec
+opt,hilly,1024,1024,200,16,static,0,42,1,0.245184,851.998,1.062,0.04454,a3a94b400bdd8e2d,NA,opt-novec
+opt,hilly,1024,1024,200,16,static,0,42,1,0.482280,433.144,1.131,0.04454,a3a94b400bdd8e2d,NA,opt-novec

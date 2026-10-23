@@ -1,0 +1,5 @@
+wildfire
+wildfire_novec
+*.ppm
+*.o
+__pycache__/

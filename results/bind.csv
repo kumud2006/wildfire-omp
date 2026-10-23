@@ -1,0 +1,10 @@
+kernel,terrain,n,m,steps,threads,schedule,chunk,seed,ignitions,time_s,mcups,imbalance,burned_frac,checksum,verify,tag
+opt,hilly,2048,2048,200,16,static,0,42,1,0.968216,864.707,1.235,0.01039,a56e1a0f624d04f7,NA,bind-false
+opt,hilly,2048,2048,200,16,static,0,42,1,0.271584,3082.740,1.289,0.01039,a56e1a0f624d04f7,NA,bind-false
+opt,hilly,2048,2048,200,16,static,0,42,1,0.245304,3412.997,1.232,0.01039,a56e1a0f624d04f7,NA,bind-false
+opt,hilly,2048,2048,200,16,static,0,42,1,0.239070,3501.994,1.163,0.01039,a56e1a0f624d04f7,NA,bind-close
+opt,hilly,2048,2048,200,16,static,0,42,1,0.279358,2996.950,1.387,0.01039,a56e1a0f624d04f7,NA,bind-close
+opt,hilly,2048,2048,200,16,static,0,42,1,0.591709,1414.925,1.452,0.01039,a56e1a0f624d04f7,NA,bind-close
+opt,hilly,2048,2048,200,16,static,0,42,1,0.347222,2411.206,1.406,0.01039,a56e1a0f624d04f7,NA,bind-spread
+opt,hilly,2048,2048,200,16,static,0,42,1,0.403076,2077.086,1.540,0.01039,a56e1a0f624d04f7,NA,bind-spread
+opt,hilly,2048,2048,200,16,static,0,42,1,0.455264,1838.984,1.392,0.01039,a56e1a0f624d04f7,NA,bind-spread
